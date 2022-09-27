@@ -21,14 +21,14 @@ module.exports = [
             'data:',
             'blob:',
             'dl.airtable.com',
-            'yourBucketName.s3.yourRegion.amazonaws.com'
+            'andonirdgz-personal-portfolio-images.s3.amazonaws.com'
           ],
           'media-src': [
             "'self'",
             'data:',
             'blob:',
             'dl.airtable.com',
-            'yourBucketName.s3.yourRegion.amazonaws.com'
+            'andonirdgz-personal-portfolio-images.s3.amazonaws.com'
           ],
           upgradeInsecureRequests: null
         }
