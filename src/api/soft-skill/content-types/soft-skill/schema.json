@@ -1,0 +1,18 @@
+{
+  "kind": "collectionType",
+  "collectionName": "soft_skills",
+  "info": {
+    "singularName": "soft-skill",
+    "pluralName": "soft-skills",
+    "displayName": "Soft skill"
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "skill_name": {
+      "type": "string"
+    }
+  }
+}
