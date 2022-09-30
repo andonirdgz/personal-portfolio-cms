@@ -1,0 +1,18 @@
+{
+  "kind": "collectionType",
+  "collectionName": "learning_skills",
+  "info": {
+    "singularName": "learning-skill",
+    "pluralName": "learning-skills",
+    "displayName": "Learning skill"
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "skill_name": {
+      "type": "string"
+    }
+  }
+}
